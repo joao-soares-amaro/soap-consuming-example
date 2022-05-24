@@ -1,4 +1,4 @@
-package com.example.webservice.domains
+package com.example.webservice.soap.domains
 
 data class Pedido(
     val tipoSolicitacao: String?,

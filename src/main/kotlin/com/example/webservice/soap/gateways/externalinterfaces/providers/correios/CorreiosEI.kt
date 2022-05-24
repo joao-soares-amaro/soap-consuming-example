@@ -1,6 +1,6 @@
 package com.example.webservice.soap.gateways.externalinterfaces.providers.correios
 
-import com.example.webservice.domains.Pedido
+import com.example.webservice.soap.domains.Pedido
 import com.example.webservice.soap.config.CorreiosSoapRequestHeader
 import com.example.webservice.soap.gateways.externalinterfaces.providers.correios.config.AcompanharPedidoRepository
 import com.example.webservice.soap.gateways.externalinterfaces.providers.correios.dtos.PedidoDto

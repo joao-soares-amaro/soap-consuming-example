@@ -1,6 +1,6 @@
 package com.example.webservice.soap.gateways.controllers.dtos
 
-import com.example.webservice.domains.Pedido
+import com.example.webservice.soap.domains.Pedido
 
 data class PedidoResponseDto(
     val tipoSolicitacao: String?,
